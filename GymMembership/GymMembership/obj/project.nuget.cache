@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lkx1URbkH4ZyjAgvVDVNGeIS3VtNmHVH3I2kJ9RVnJ0H6XSxWtPzfaS69uQ4rybCYvAb1eDSC7fGUqVkKttnuw==",
+  "dgSpecHash": "lQ3nrOoUD/ht8Om3qPXVqBA40CbbFdCkWDQavB0L61cK/udZujXBvvVsXOpuN4D3oeTNTUx/dieEA5ZkDkv+fQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Svetoslav\\source\\repos\\GymMembership\\GymMembership\\GymMembership\\GymMembership.csproj",
+  "projectFilePath": "E:\\C#\\GymMembership\\GymMembership\\GymMembership\\GymMembership.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Svetoslav\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Svetoslav\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

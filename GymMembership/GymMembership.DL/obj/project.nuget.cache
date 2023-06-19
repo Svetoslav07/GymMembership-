@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HBzrmg8Tk6/0zZmQszcShE4cDXVbcgEqPil/pkKGs3MaHKOs5aYnBFvzykA0ho8sORMD4eWGToGvTZ6+iu30Jg==",
+  "dgSpecHash": "823VsKWakpkSwPZT3b0wAAEW64nd6aWxi3NH0aKEeUh25orP3/TrSOfYCL9UoMLF9r7Yx8bxMqfr1MDbKUck3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Svetoslav\\source\\repos\\GymMembership\\GymMembership\\GymMembership.DL\\GymMembership.DL.csproj",
+  "projectFilePath": "E:\\C#\\GymMembership\\GymMembership\\GymMembership.DL\\GymMembership.DL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Svetoslav\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Svetoslav\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

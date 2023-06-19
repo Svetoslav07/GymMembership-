@@ -910,11 +910,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Svetoslav\\source\\repos\\GymMembership\\GymMembership\\GymMembership.DL\\GymMembership.DL.csproj",
+      "projectUniqueName": "E:\\C#\\GymMembership\\GymMembership\\GymMembership.DL\\GymMembership.DL.csproj",
       "projectName": "GymMembership.DL",
-      "projectPath": "C:\\Users\\Svetoslav\\source\\repos\\GymMembership\\GymMembership\\GymMembership.DL\\GymMembership.DL.csproj",
+      "projectPath": "E:\\C#\\GymMembership\\GymMembership\\GymMembership.DL\\GymMembership.DL.csproj",
       "packagesPath": "C:\\Users\\Svetoslav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Svetoslav\\source\\repos\\GymMembership\\GymMembership\\GymMembership.DL\\obj\\",
+      "outputPath": "E:\\C#\\GymMembership\\GymMembership\\GymMembership.DL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Svetoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -931,8 +931,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Svetoslav\\source\\repos\\GymMembership\\GymMembership\\GymMembership.Models\\GymMembership.Models.csproj": {
-              "projectPath": "C:\\Users\\Svetoslav\\source\\repos\\GymMembership\\GymMembership\\GymMembership.Models\\GymMembership.Models.csproj"
+            "E:\\C#\\GymMembership\\GymMembership\\GymMembership.Models\\GymMembership.Models.csproj": {
+              "projectPath": "E:\\C#\\GymMembership\\GymMembership\\GymMembership.Models\\GymMembership.Models.csproj"
             }
           }
         }

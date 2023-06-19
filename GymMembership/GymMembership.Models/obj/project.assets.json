@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Svetoslav\\source\\repos\\GymMembership\\GymMembership\\GymMembership.Models\\GymMembership.Models.csproj",
+      "projectUniqueName": "E:\\C#\\GymMembership\\GymMembership\\GymMembership.Models\\GymMembership.Models.csproj",
       "projectName": "GymMembership.Models",
-      "projectPath": "C:\\Users\\Svetoslav\\source\\repos\\GymMembership\\GymMembership\\GymMembership.Models\\GymMembership.Models.csproj",
+      "projectPath": "E:\\C#\\GymMembership\\GymMembership\\GymMembership.Models\\GymMembership.Models.csproj",
       "packagesPath": "C:\\Users\\Svetoslav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Svetoslav\\source\\repos\\GymMembership\\GymMembership\\GymMembership.Models\\obj\\",
+      "outputPath": "E:\\C#\\GymMembership\\GymMembership\\GymMembership.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Svetoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",

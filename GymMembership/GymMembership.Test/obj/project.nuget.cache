@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "utsGvdnOqsmiFfrIDOThHLMytyB8NLnldShmOU9/qf8NafNQag/D9eWPTTJpFmZEfCtRdCZJSxkKTf154UgvQQ==",
+  "dgSpecHash": "KemddydzU1WU5ylybIQB011PwQT2n8I/BJ/4N8W0xlOwKibjsu3XXo4oxCAHtzqtlJprAWWSZcIcLT7Z6qQqkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Svetoslav\\source\\repos\\GymMembership\\GymMembership\\GymMembership.Test\\GymMembership.Test.csproj",
+  "projectFilePath": "E:\\C#\\GymMembership\\GymMembership\\GymMembership.Test\\GymMembership.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Svetoslav\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Svetoslav\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
