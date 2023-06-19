@@ -1,0 +1,15 @@
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.DL\bin\Debug\net6.0\GymMembership.DL.deps.json
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.DL\bin\Debug\net6.0\GymMembership.DL.dll
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.DL\bin\Debug\net6.0\GymMembership.DL.pdb
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.DL\bin\Debug\net6.0\GymMembership.Models.dll
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.DL\bin\Debug\net6.0\GymMembership.Models.pdb
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.DL\obj\Debug\net6.0\GymMembership.DL.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.DL\obj\Debug\net6.0\GymMembership.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.DL\obj\Debug\net6.0\GymMembership.DL.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.DL\obj\Debug\net6.0\GymMembership.DL.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.DL\obj\Debug\net6.0\GymMembership.DL.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.DL\obj\Debug\net6.0\GymMembership.DL.csproj.CopyComplete
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.DL\obj\Debug\net6.0\GymMembership.DL.dll
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.DL\obj\Debug\net6.0\refint\GymMembership.DL.dll
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.DL\obj\Debug\net6.0\GymMembership.DL.pdb
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.DL\obj\Debug\net6.0\ref\GymMembership.DL.dll

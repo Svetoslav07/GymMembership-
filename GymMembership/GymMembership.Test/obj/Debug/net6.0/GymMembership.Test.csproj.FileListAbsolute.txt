@@ -1,0 +1,6 @@
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.Test\obj\Debug\net6.0\GymMembership.Test.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.Test\obj\Debug\net6.0\GymMembership.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.Test\obj\Debug\net6.0\GymMembership.Test.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.Test\obj\Debug\net6.0\GymMembership.Test.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.Test\obj\Debug\net6.0\GymMembership.Test.csproj.CoreCompileInputs.cache

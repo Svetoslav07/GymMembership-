@@ -1,0 +1,17 @@
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.BLL\bin\Debug\net6.0\GymMembership.BLL.deps.json
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.BLL\bin\Debug\net6.0\GymMembership.BLL.dll
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.BLL\bin\Debug\net6.0\GymMembership.BLL.pdb
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.BLL\bin\Debug\net6.0\GymMembership.DL.dll
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.BLL\bin\Debug\net6.0\GymMembership.Models.dll
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.BLL\bin\Debug\net6.0\GymMembership.DL.pdb
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.BLL\bin\Debug\net6.0\GymMembership.Models.pdb
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.BLL\obj\Debug\net6.0\GymMembership.BLL.csproj.AssemblyReference.cache
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.BLL\obj\Debug\net6.0\GymMembership.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.BLL\obj\Debug\net6.0\GymMembership.BLL.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.BLL\obj\Debug\net6.0\GymMembership.BLL.AssemblyInfo.cs
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.BLL\obj\Debug\net6.0\GymMembership.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.BLL\obj\Debug\net6.0\GymMembership.BLL.csproj.CopyComplete
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.BLL\obj\Debug\net6.0\GymMembership.BLL.dll
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.BLL\obj\Debug\net6.0\refint\GymMembership.BLL.dll
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.BLL\obj\Debug\net6.0\GymMembership.BLL.pdb
+C:\Users\Svetoslav\source\repos\GymMembership\GymMembership\GymMembership.BLL\obj\Debug\net6.0\ref\GymMembership.BLL.dll
